@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&family=Sekuya&display=swap');
+body {
+    font-family:'Roboto', Arial, Arial, Helvetica, sans-serif;
+}
+:root {
+    --vermelho-ceep: #cc0000;
+    --amarelo-ceep: #ffcc00;
+    --cinza-ceep-claro: #cccccc;
+    --branco-ceep: #ffffff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
